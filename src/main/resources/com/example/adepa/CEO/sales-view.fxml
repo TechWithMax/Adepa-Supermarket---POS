@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="835.0" prefWidth="1140.0" xmlns="http://javafx.com/javafx/22" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.adepa.CeoViewController">
+   <children>
+      <AnchorPane layoutX="5.0" layoutY="5.0" prefHeight="509.0" prefWidth="531.0" style="-fx-background-color: red;" />
+   </children>
+</AnchorPane>
